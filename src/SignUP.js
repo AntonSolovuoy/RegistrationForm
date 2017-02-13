@@ -76,7 +76,7 @@ export default class SignUP extends React.Component {
     if (SignUP.isValidate(state) === true) {
 
       for (let name in state) {
-        if (!state[name] && state.hasOwnProperty(name)) {
+        if (state[name] && state.hasOwnProperty(name)) {
           this.error[name] = "has-success";
         }
       }
