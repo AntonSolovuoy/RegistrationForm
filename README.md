@@ -7,4 +7,4 @@ To run follow these steps (you'll need Node.js and the package manager that come
 3. npm install;
 4. npm start.
 
-And open up http://localhost:8080.
+And open up http://localhost:8080/.
