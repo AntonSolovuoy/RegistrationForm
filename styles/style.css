@@ -1,0 +1,31 @@
+.sign-in {
+	color: #d9534f;
+}
+
+.sign-up {
+	color: #449d44;
+}
+
+.img-margin {
+	margin: 30px 0;
+}
+
+a:hover {
+	opacity:0.7;
+}
+
+.first-container {
+	background: #f1f441;
+}
+
+.second-container {
+	background: #29bc2b;
+}
+
+.last {
+	background: #f44941;
+}
+
+.footer {
+	background: #5c47ff;
+}

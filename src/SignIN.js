@@ -108,7 +108,7 @@ export default class SignIN extends React.Component {
 
           <div className="col-lg-4 col-md-4 col-sm-4 col-xs-4">
             <div>
-              <img src="img/cover.jpg" alt="Night Lovell" className="img-circle img-responsive" />
+              <img src="images/cover.jpg" alt="Night Lovell" className="img-circle img-responsive" />
             </div>
           </div>
 
